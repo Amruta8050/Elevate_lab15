@@ -42,3 +42,4 @@ Goal: Predict whether a tumor is malignant or benign based on input features.
 
 ---
 #Outputs
+<img width="1453" height="350" alt="Image" src="https://github.com/user-attachments/assets/ff8e60a2-c641-4c38-b68a-91058912d6af" />
